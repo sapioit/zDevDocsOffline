@@ -1,4 +1,4 @@
-# zDevDocsOffline
+# zDevDocsOffline [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 A DevDocs client (for offline use). Written in [Electron](https://github.com/atom/electron).
 
 
